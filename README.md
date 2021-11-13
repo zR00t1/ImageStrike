@@ -18,11 +18,11 @@ java环境
 ├─imgs								# 图片存储目录
 ├─tools								# 外部工具存放目录
 │	├─bwm.exe						# py2打包的盲水印工具
-│	├─Extract.class					# F5隐写工具
-│	└─strings.exe					# strings可打印字符工具
-├─ImageStrike.exe					# 主程序
-├─libiconv.dll						# pyzbar库dll文件
-├─libzbar-64.dll					# pyzbar库dll文件
+│	├─Extract.class					        # F5隐写工具
+│	└─strings.exe					        # strings可打印字符工具
+├─ImageStrike.exe					        # 主程序
+├─libiconv.dll						        # pyzbar库dll文件
+├─libzbar-64.dll					        # pyzbar库dll文件
 └─logo.ico							# 图标
 ```
 
