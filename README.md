@@ -5,7 +5,7 @@ ImageStrike是一款使用PyQT5开发，用于CTF中图片隐写的综合利用�
 
 ## 🎗️环境依赖
 
-java环境
+java
 
 ## 📑文件目录
 
@@ -23,31 +23,31 @@ java环境
 
 ## ⚙️运行截图
 
-盲水印：
+#### 盲水印：
 
 <img src="imgs/bwm.gif" style="zoom:60%;" />
 
-Gif帧分离：
+#### Gif帧分离：
 
 <img src="imgs/gif.gif" style="zoom:60%;" />
 
-图片反相：
+#### 图片反相：
 
 <img src="imgs/inversion.gif" style="zoom:60%;" />
 
-png自动改宽高：
+#### PNG自动改宽高：
 
 <img src="imgs/png.gif" style="zoom:60%;" />
 
-二维码识别：
+#### 二维码识别：
 
 <img src="imgs/qrcode.gif" style="zoom:60%;" />
 
-RGB转图片：
+#### RGB转图片：
 
 <img src="imgs/rgb2jpg.gif" style="zoom:60%;" />
 
-Strings可打印字符：
+#### Strings可打印字符：
 
 <img src="imgs/strings.gif" style="zoom:60%;" />
 
