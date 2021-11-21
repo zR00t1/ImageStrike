@@ -11,6 +11,8 @@ java
 
 stegpy      # pip3 install stegpy
 ```
+[Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=40784)
+
 
 
 
