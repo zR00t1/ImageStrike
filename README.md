@@ -31,7 +31,7 @@ java
 - [x] 盲水印
 - [x] 二维码识别
 - [x] 图片反相
-- [x] RGB转图片
+- [x] RGB->图片
 - [x] PNG改宽高
 - [x] PNG图片检测IDAT
 - [x] 图片元数据（EXIF、IPTC、XMP）
@@ -39,7 +39,7 @@ java
 - [x] F5隐写
 - [x] Strings可打印字符
 - [x] JPG改宽高
-- [x] 01二进制转黑白图片
+- [x] 二进制->黑白矩阵
 - [x] Stegpy
 - [x] Steghide
 - [x] Foremost
