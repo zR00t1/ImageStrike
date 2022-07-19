@@ -6,10 +6,16 @@ ImageStrike是一款使用PyQT5开发，用于CTF中图片隐写的综合利用�
 
 ## 🎗️环境依赖
 
+```plain
+java        #F5隐写需要依赖本地java环境
+
+Visual C++ Redistributable Packages for Visual Studio 2013
 ```
-java
-```
-[Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=40784)
+
+未安装Visual C++ 2013运行库的用户务必安装，否则无法运行该程序并触发以下错误，[点击下载Visual C++ 2013运行库](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=40784)
+
+![image](https://user-images.githubusercontent.com/46400438/179644643-6dec1c6f-647c-49b5-841c-d063e501fa5a.png)
+
 
 ## 🔗参考
 
